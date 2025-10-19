@@ -1,2 +1,2 @@
-# Python_Project_for_Data_Science
+# Python Project for Data Science
 IBM Coursera Python Project for Data Science Final assignment
